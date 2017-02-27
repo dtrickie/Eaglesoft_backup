@@ -32,3 +32,4 @@ cd "c:\eaglesoft\Shared Files"
 timeout 5
 "techaid.exe" startmsngr
 @Echo BACKUP COMPLETE, THANK YOU HAVE A GREAT DAY :) TIMEOUT 10
+bbb
