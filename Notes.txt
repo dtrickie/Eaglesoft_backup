@@ -1,0 +1,2 @@
+This is a batch file created to backup eaglesoft dentistry software
+to a removable storage weather it be a flash drive / hard drive / or other option such as dropbox or google drive
