@@ -1,5 +1,5 @@
 REM Author: Ryan White
-REM Ver. r04
+REM Ver. r06
 
 @echo Todays Date is  %DATE:~0,14%  Please have all clients log off @echo off pause REM ~~~~~~~~~~~~~~~ Stopping Server ~~~~~~~~~~~ @echo "Stopping Server"
 REM @Echo off
